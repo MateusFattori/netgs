@@ -72,12 +72,14 @@ git clone https://github.com/seu-usuario/netgs.git
 - Você pode verificar no Swagger a documentação da API acessando o endpoint https://localhost:5001/swagger.
 
 ## Como Rodar os Testes
+
 #Passos para Executar os Testes Automatizados
-1. Abra o projeto netgs.Tests no Visual Studio.
 
-2. No Visual Studio, vá até a barra de ferramentas e clique em Test > Run All Tests para rodar todos os testes automatizados.
+1. **Abra o projeto netgs.Tests no Visual Studio.**
 
-3. Você também pode rodar os testes diretamente pelo terminal com o comando:
+2. **No Visual Studio, vá até a barra de ferramentas e clique em Test > Run All Tests para rodar todos os testes automatizados.**
+
+3. **Você também pode rodar os testes diretamente pelo terminal com o comando**:
 
 bash
 Copiar código
