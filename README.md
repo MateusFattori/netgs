@@ -10,7 +10,7 @@ Mateus Fattori RM:97904
 
 # Importante 
 
-## **Para poder utilizar e testar o codigo tem que usar o comando git clone ou no Viusal Studio usar a opiço de clonar repositorio**
+## **Para poder utilizar e testar o codigo tem que usar no Viusal Studio usar a opiço de clonar repositorio**
 
 ## **Comando git clone**
 
