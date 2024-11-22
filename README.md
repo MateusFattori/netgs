@@ -73,7 +73,7 @@ git clone https://github.com/seu-usuario/netgs.git
 
 ## Como Rodar os Testes
 
-#Passos para Executar os Testes Automatizados
+### Passos para Executar os Testes Automatizados
 
 1. **Abra o projeto netgs.Tests no Visual Studio.**
 
