@@ -8,6 +8,17 @@ Pedro Baraldi Sá RM:98060
 
 Mateus Fattori RM:97904
 
+# Importante 
+
+## **Para poder utilizar e testar o codigo tem que usar o comando git clone ou no Viusal Studio usar a opiço de clonar repositorio**
+
+**comando git clone**
+
+```
+git clone https://github.com/MateusFattori/netgs.git
+```
+
+
 # netgs - API de Dicas de Economia de Energia
 
 ## Descrição
@@ -80,10 +91,12 @@ git clone https://github.com/seu-usuario/netgs.git
 2. **No Visual Studio, vá até a barra de ferramentas e clique em Test > Run All Tests para rodar todos os testes automatizados.**
 
 3. **Você também pode rodar os testes diretamente pelo terminal com o comando**:
-
+```
 bash
 Copiar código
 dotnet test
+```
+
 O Visual Studio mostrará os resultados dos testes na janela Test Explorer.
 
 **Observação**: Certifique-se de que o MongoDB está rodando e a API está conectada corretamente, para que os testes de integração funcionem.
