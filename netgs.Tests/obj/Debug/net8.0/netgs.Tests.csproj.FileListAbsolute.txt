@@ -1,0 +1,7 @@
+C:\Users\mffat\source\repos\netgs.Tests\bin\Debug\net8.0\.msCoverageSourceRootsMapping_netgs.Tests
+C:\Users\mffat\source\repos\netgs.Tests\bin\Debug\net8.0\CoverletSourceRootsMapping_netgs.Tests
+C:\Users\mffat\source\repos\netgs.Tests\obj\Debug\net8.0\netgs.Tests.csproj.AssemblyReference.cache
+C:\Users\mffat\source\repos\netgs.Tests\obj\Debug\net8.0\netgs.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mffat\source\repos\netgs.Tests\obj\Debug\net8.0\netgs.Tests.AssemblyInfoInputs.cache
+C:\Users\mffat\source\repos\netgs.Tests\obj\Debug\net8.0\netgs.Tests.AssemblyInfo.cs
+C:\Users\mffat\source\repos\netgs.Tests\obj\Debug\net8.0\netgs.Tests.csproj.CoreCompileInputs.cache
