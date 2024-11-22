@@ -12,10 +12,10 @@ Mateus Fattori RM:97904
 
 ## **Para poder utilizar e testar o codigo tem que usar no Viusal Studio usar a opiço de clonar repositorio**
 
-## **Comando git clone**
+## **Link para clonar pelo Visual Studio**
 
 ```
-git clone https://github.com/MateusFattori/netgs.git
+https://github.com/MateusFattori/netgs.git
 ```
 
 
